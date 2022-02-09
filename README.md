@@ -4,7 +4,7 @@ Codepath-Prework is a tip calculator application for iOS.
 
 Submitted by: Antonio Razo
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
